@@ -1,11 +1,16 @@
 # Probe
 경북대학교 통계학과 데이터 분석 & 사이언스 학회
 
-![9](https://github.com/KNU-Probe/2024_Probe_Spring/assets/154722795/74633a31-a805-4db7-8f8f-070a99c1dbf7)
+                                                           ![9](https://github.com/KNU-Probe/2024_Probe_Spring/assets/154722795/74633a31-a805-4db7-8f8f-070a99c1dbf7)
+
+
 
 Probe는 탐사선이라는 의미를 가지고 있습니다.
 Probe로 학회의 이름을 정한 것도, 넓디 넓은 데이터 분석 & 사이언스 분야를 함께 탐사해보고자 정하였습니다.
 Probe에서 모두 함께 재밌게 탐사하고 더 많은 걸 배우고 추억도 더 많이 쌓을 수 있으면 좋겠습니다.
+
+
+
 
 
 
