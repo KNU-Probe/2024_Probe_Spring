@@ -23,12 +23,25 @@ EDA(Exploratory Data Analysis - 탐색적 데이터분석)이란??
 - target distribution
 각 데이터 종류마다 몇개 있는가
 > code
+-----------------
 train_df.info() # 데이터 type 및 개수 확인
 column/count/Dtype 제공
-
+----------------
 info()를 확인하는 이유
 -> 분류 문제와 같은 경우 100개의 데이터 셋에 데이터가 25개씩 4개 존재하는 것과 70개, 25개, 3개, 2개
 이렇게 존재하는 것은 큰 차이가 존재하기 때문
+
+- 산점도 확인 
+> code
+---------
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+plt.figure(figsize=(10,8))
+sns.scatterplot(data=train_df,x ='총상환원금',y='총상환이자', hue= '대출등급')
+-------------
+->  x, y가 연속형변수이고 hue의 변수가 이산형일 때 특히 유용
+
 
 
 
