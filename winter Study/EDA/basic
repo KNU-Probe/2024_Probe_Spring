@@ -15,4 +15,22 @@ EDA(Exploratory Data Analysis - 탐색적 데이터분석)이란??
 
 그래서 EDA를 공부하기 위해선 케글이나 데이콘 같은 곳에서 많은 사례를 보면 좋다
 
+그래도 이론적으로 다뤄보면, 
+1. 데이터 크기 확인
+주어진 dataset의 rows, columns를 확인해야 합니다.
+
+2. 데이터 분포 확인
+- target distribution
+각 데이터 종류마다 몇개 있는가
+> code
+train_df.info() # 데이터 type 및 개수 확인
+column/count/Dtype 제공
+
+info()를 확인하는 이유
+-> 분류 문제와 같은 경우 100개의 데이터 셋에 데이터가 25개씩 4개 존재하는 것과 70개, 25개, 3개, 2개
+이렇게 존재하는 것은 큰 차이가 존재하기 때문
+
+
+
+
 
