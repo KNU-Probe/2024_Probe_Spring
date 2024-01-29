@@ -22,8 +22,10 @@ EDA(Exploratory Data Analysis - 탐색적 데이터분석)이란??
 2. 데이터 분포 확인
 - target distribution
 각 데이터 종류마다 몇개 있는가
-
-    train_df.info() 
+> code
+```
+train_df.info() 
+```
 
 -> # 데이터 type 및 개수 확인 - column/count/Dtype 제공
 info()를 확인하는 이유
