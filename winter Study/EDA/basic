@@ -23,7 +23,7 @@ EDA(Exploratory Data Analysis - 탐색적 데이터분석)이란??
 - target distribution
 각 데이터 종류마다 몇개 있는가
 > code
-```python
+```
 train_df.info() 
 ```
 
@@ -34,7 +34,7 @@ info()를 확인하는 이유
 
 - 산점도 확인 
 > code
-```python
+```
  import matplotlib.pyplot as plt
  import seaborn as sns
 
