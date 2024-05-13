@@ -1,0 +1,103 @@
+,Symbol,Description,% Portfolio Weight,Shares Held,Market Value
+0,MSFT,Microsoft Corp,8.59%,53.8M,$22.0B
+1,AAPL,Apple Inc,7.95%,111.9M,$20.4B
+2,NVDA,NVIDIA Corp,6.39%,18.1M,$16.4B
+3,AMZN,Amazon.com Inc,5.53%,75.2M,$14.2B
+4,META,Meta Platforms Inc Class A,4.63%,25.4M,$11.9B
+5,AVGO,Broadcom Inc,4.40%,8.7M,$11.3B
+6,GOOGL,Alphabet Inc Class A,2.85%,42.7M,$7.3B
+7,GOOG,Alphabet Inc Class C,2.77%,41.1M,$7.1B
+8,COST,Costco Wholesale Corp,2.50%,8.3M,$6.4B
+9,TSLA,Tesla Inc,2.42%,34.9M,$6.2B
+10,NFLX,Netflix Inc,1.91%,8.1M,$4.9B
+11,AMD,Advanced Micro Devices Inc,1.82%,30.2M,$4.7B
+12,PEP,PepsiCo Inc,1.78%,25.7M,$4.6B
+13,ADBE,Adobe Inc,1.62%,8.5M,$4.2B
+14,LIN,Linde PLC,1.51%,9.0M,$3.9B
+15,QCOM,Qualcomm Inc,1.47%,20.9M,$3.8B
+16,TMUS,T-Mobile US Inc,1.40%,22.2M,$3.6B
+17,CSCO,Cisco Systems Inc,1.40%,75.8M,$3.6B
+18,INTU,Intuit Inc,1.31%,5.2M,$3.4B
+19,AMAT,Applied Materials Inc,1.26%,15.5M,$3.2B
+20,TXN,Texas Instruments Inc,1.21%,17.0M,$3.1B
+21,AMGN,Amgen Inc,1.17%,10.0M,$3.0B
+22,CMCSA,Comcast Corp Class A,1.11%,74.1M,$2.9B
+23,ISRG,Intuitive Surgical Inc,1.00%,6.6M,$2.6B
+24,MU,Micron Technology Inc,0.96%,20.7M,$2.5B
+25,INTC,Intel Corp,0.95%,79.1M,$2.4B
+26,HON,Honeywell International Inc,0.94%,12.2M,$2.4B
+27,BKNG,Booking Holdings Inc,0.90%,639.3K,$2.3B
+28,LRCX,Lam Research Corp,0.87%,2.5M,$2.2B
+29,VRTX,Vertex Pharmaceuticals Inc,0.77%,4.8M,$2.0B
+30,REGN,Regeneron Pharmaceuticals Inc,0.76%,2.0M,$2.0B
+31,ADI,Analog Devices Inc,0.74%,9.3M,$1.9B
+32,ADP,Automatic Data Processing Inc,0.73%,7.7M,$1.9B
+33,PANW,Palo Alto Networks Inc,0.72%,6.0M,$1.8B
+34,MDLZ,Mondelez International Inc Class A,0.70%,25.2M,$1.8B
+35,KLAC,KLA Corp,0.70%,2.5M,$1.8B
+36,PDD,PDD Holdings Inc ADR,0.67%,12.5M,$1.7B
+37,MELI,MercadoLibre Inc,0.62%,948.5K,$1.6B
+38,SNPS,Synopsys Inc,0.61%,2.9M,$1.6B
+39,SBUX,Starbucks Corp,0.60%,21.2M,$1.5B
+40,GILD,Gilead Sciences Inc,0.59%,23.3M,$1.5B
+41,ASML,ASML Holding NV ADR,0.57%,1.6M,$1.5B
+42,CDNS,Cadence Design Systems Inc,0.56%,5.1M,$1.4B
+43,CRWD,CrowdStrike Holdings Inc Class A,0.52%,4.3M,$1.3B
+44,PYPL,PayPal Holdings Inc,0.52%,20.1M,$1.3B
+45,CTAS,Cintas Corp,0.51%,1.9M,$1.3B
+46,ABNB,Airbnb Inc Ordinary Shares - Class A,0.51%,8.2M,$1.3B
+47,MAR,Marriott International Inc Class A,0.50%,5.4M,$1.3B
+48,CSX,CSX Corp,0.49%,36.7M,$1.2B
+49,NXPI,NXP Semiconductors NV,0.48%,4.8M,$1.2B
+50,CEG,Constellation Energy Corp,0.46%,5.9M,$1.2B
+51,ORLY,O'Reilly Automotive Inc,0.44%,1.1M,$1.1B
+52,MRVL,Marvell Technology Inc,0.43%,16.2M,$1.1B
+53,PCAR,PACCAR Inc,0.41%,9.8M,$1.0B
+54,MNST,Monster Beverage Corp,0.41%,19.5M,$1.1B
+55,ROP,Roper Technologies Inc,0.41%,2.0M,$1.0B
+56,CPRT,Copart Inc,0.39%,18.0M,$1.0B
+57,WDAY,Workday Inc Class A,0.38%,3.9M,$975.3M
+58,DXCM,DexCom Inc,0.37%,7.2M,$938.4M
+59,MCHP,Microchip Technology Inc,0.36%,10.1M,$930.8M
+0,MRNA,Moderna Inc,0.34%,7.1M,$865.4M
+1,KDP,Keurig Dr Pepper Inc,0.34%,26.0M,$877.7M
+2,AEP,American Electric Power Co Inc,0.34%,9.8M,$884.7M
+3,ADSK,Autodesk Inc,0.33%,4.0M,$859.0M
+4,FTNT,Fortinet Inc,0.33%,14.3M,$848.4M
+5,DASH,DoorDash Inc Ordinary Shares - Class A,0.32%,7.0M,$813.7M
+6,KHC,The Kraft Heinz Co,0.32%,22.7M,$812.8M
+7,AZN,AstraZeneca PLC ADR,0.32%,10.9M,$831.5M
+8,ROST,Ross Stores Inc,0.32%,6.3M,$828.8M
+9,PAYX,Paychex Inc,0.32%,6.8M,$823.1M
+10,LULU,Lululemon Athletica Inc,0.31%,2.3M,$792.5M
+11,ODFL,Old Dominion Freight Line Inc Ordinary S...,0.29%,4.1M,$752.6M
+12,IDXX,IDEXX Laboratories Inc,0.29%,1.6M,$751.9M
+13,TTD,The Trade Desk Inc Class A,0.29%,8.3M,$746.3M
+14,EXC,Exelon Corp,0.28%,18.7M,$708.9M
+15,FAST,Fastenal Co,0.28%,10.7M,$711.0M
+16,CSGP,CoStar Group Inc,0.28%,7.6M,$706.5M
+17,CHTR,Charter Communications Inc Class A,0.28%,2.7M,$728.2M
+18,GEHC,GE HealthCare Technologies Inc Common St...,0.27%,8.5M,$693.7M
+19,FANG,Diamondback Energy Inc,0.26%,3.3M,$680.0M
+20,VRSK,Verisk Analytics Inc,0.26%,2.7M,$662.6M
+21,EA,Electronic Arts Inc,0.25%,5.0M,$651.4M
+22,DDOG,Datadog Inc Class A,0.25%,5.7M,$644.1M
+23,CTSH,Cognizant Technology Solutions Corp Clas...,0.25%,9.3M,$630.2M
+24,--,Coca-Cola Europacific Partners PLC,0.24%,8.5M,$626.4M
+25,BKR,Baker Hughes Co Class A,0.23%,18.7M,$601.8M
+26,BIIB,Biogen Inc,0.23%,2.7M,$595.4M
+27,CDW,CDW Corp,0.22%,2.5M,$554.2M
+28,ON,ON Semiconductor Corp,0.22%,8.0M,$566.0M
+29,XEL,Xcel Energy Inc,0.22%,10.4M,$571.5M
+30,GFS,GLOBALFOUNDRIES Inc,0.21%,10.2M,$545.8M
+31,TEAM,Atlassian Corp A,0.21%,2.9M,$541.3M
+32,ANSS,Ansys Inc,0.21%,1.6M,$529.2M
+33,MDB,MongoDB Inc Class A,0.19%,1.4M,$480.7M
+34,DLTR,Dollar Tree Inc,0.19%,4.1M,$496.0M
+35,ZS,Zscaler Inc,0.19%,2.8M,$490.9M
+36,TTWO,Take-Two Interactive Software Inc,0.18%,3.2M,$473.4M
+37,WBD,Warner Bros. Discovery Inc Ordinary Shar...,0.14%,45.6M,$354.7M
+38,ILMN,Illumina Inc,0.13%,3.0M,$335.4M
+39,WBA,Walgreens Boots Alliance Inc,0.11%,16.1M,$279.9M
+40,SIRI,Sirius XM Holdings Inc,0.09%,71.9M,$225.0M
+41,--,Cash,0.09%,241.6M,$241.6M
